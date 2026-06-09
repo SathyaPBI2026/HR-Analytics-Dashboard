@@ -6,22 +6,36 @@ The HR Analytics Dashboard is an interactive Power BI project designed to help o
 
 ## Questions (KPIs)
 •	Total Employees – Total workforce strength in the organization.
+
 •	Active Employees – Current employees actively working.
+
 •	Attrition Count – Number of employees who left the organization.
+
 •	Attrition Rate (%) – Percentage of employees who left the organization.
+
 •	Average Employee Age – Average age of employees.
+
 •	Average Monthly Income – Average salary across employees.
+
 •	Average Years at Company – Average employee tenure.
+
 •	Job Satisfaction Score – Employee satisfaction level across different job roles.
+
 •	Gender Diversity Ratio – Distribution of male and female employees.
+
 •	Department-wise Employee Count – Workforce distribution across departments.
 
 ## Process
 •	Collected the HR dataset containing employee details such as age, gender, department, job role,  salary, and attrition information.
+
 •	Imported the data into Power BI and performed data cleaning using Power Query by handling missing values, correcting data types, and removing duplicates.
+
 •	Designed card visuals to portrait the attributes like Total Employees, Attrition Count, Attrition Rate, Active Employees, Average Age, and Average Experience.
+
 •	Developed DAX Measures to count the Attrition rate of employees.
-•	Designed interactive visualizations including donut chart, clustered bar chart, stacked column chart, matrix table, pie chart, area chart and funnel chart for detailed HR analysis..
+
+•	Designed interactive visualizations including donut chart, clustered bar chart, stacked column chart, matrix table, pie chart, area chart and funnel chart for detailed HR analysis.
+
 •	Implemented filters for Department and Age-group functionality to enable detailed exploration of HR metrics.
 
 ## Dashboard
@@ -29,9 +43,13 @@ The HR Analytics Dashboard is an interactive Power BI project designed to help o
 
 ## Project Insight
 •	The organization has an overall attrition rate of 16.3%, indicating employee turnover trends.
+
 •	Employees in the age group of 18-25 show the highest attrition compared to other age groups.
+
 •	The Administration, Operation & sales department records the highest number of employee exits.
+
 •	Male and female attrition patterns can be compared to identify workforce diversity trends.
+
 •	Employees with least no. of experience leaves the company earlier.
 
 ## Conclusion
